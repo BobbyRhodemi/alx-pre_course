@@ -1,2 +1,2 @@
 My second README
-Updating my second README
+Updating my second READme
